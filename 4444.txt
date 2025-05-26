@@ -1,0 +1,2 @@
+cd C:\Users\Admin\Desktop\ai_chess_bot
+python main.py
